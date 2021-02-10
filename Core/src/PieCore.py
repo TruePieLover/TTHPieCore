@@ -1,3 +1,11 @@
+"""
+    TTHPieCore
+Author: Pie
+Copyright: 2/9/2021 TTHPieCore
+Module: Core/src
+File: PieCore.py
+Description: Main PieCore source file
+"""
 import http.client
 
 conn = http.client.HTTPSConnection("apidojo-yahoo-finance-v1.p.rapidapi.com")
